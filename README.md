@@ -1,6 +1,6 @@
-<p align="center">
-ECE-2112_2410013_Lab Reports
- </p> 
+
+## ECE-2112_2410013_Lab Reports
+
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
