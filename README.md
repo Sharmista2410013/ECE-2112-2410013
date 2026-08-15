@@ -48,11 +48,11 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link |
-| :---: | :---: | :---: | 
-| 01 | Introduction to Logisim Evolution | [Lab 01](https://github.com/Sharmista2410013/ECE-2112-2410013/blob/main/Lab1-2410013.pdf)|   
 
-| 01 | Introduction to Logisim Evolution | [Lab 02](https://github.com/Sharmista2410013/ECE-2112-2410013/blob/main/Lab1-2410013.pdf)|   
+| Lab No. | Experiment Name | Report Link |
+| :---: | :--- | :--- |
+| 01 | Introduction to Logisim Evolution | [Lab 01](https://github.com/Sharmista2410013/ECE-2112-2410013/blob/main/Lab1-2410013.pdf) |
+| 02 | Simplifications of Boolean Functions | [Lab 02]() | 
 
 
 
